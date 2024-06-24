@@ -1,4 +1,4 @@
 # MyMap
 
-ÆüËÜÃÏ¿Ş
+æ—¥æœ¬åœ°å›³
 https://wittyfool.github.io/MyMap/JapanGridMap.html
